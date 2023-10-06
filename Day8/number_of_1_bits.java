@@ -21,7 +21,7 @@ public class number_of_1_bits {
     }
 
     public static void main(String[] args) {
-        int n = 20;
+        int n = 20; // n=10100
         System.out.println(hammingWeight(n));
     }
 }
