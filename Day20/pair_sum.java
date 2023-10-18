@@ -1,4 +1,3 @@
-package Day20;
 
 /*Sample Input 1:
 5 5
