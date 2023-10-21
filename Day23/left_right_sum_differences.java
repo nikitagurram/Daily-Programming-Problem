@@ -1,4 +1,3 @@
-package Day23;
 
 /*Given a 0-indexed integer array nums, find a 0-indexed integer array answer where:
 answer.length == nums.length.
