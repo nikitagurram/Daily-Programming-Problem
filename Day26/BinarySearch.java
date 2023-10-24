@@ -1,5 +1,3 @@
-package Day26;
-
 public class BinarySearch {
     public static int search(int[] nums, int target) {
         // Write your code here.
