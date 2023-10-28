@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+/* */
 public class Check_if_two_arrays_are_equal_or_not {
     public static boolean check(long A[], long B[], int N) {
         // Your code here
