@@ -1,5 +1,3 @@
-package Day33;
-
 /**
  * sum_of_digits_in_base_k
  * Given an integer n (in base 10) and a base k, return the sum of the digits of
