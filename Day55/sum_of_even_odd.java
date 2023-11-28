@@ -23,6 +23,7 @@ public class sum_of_even_odd {
                 odd += rem;
             n /= 10;
         }
+        sc.close();
         System.out.println(even + " " + odd);
     }
 }
