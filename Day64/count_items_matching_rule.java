@@ -40,7 +40,6 @@ public class count_items_matching_rule {
             key = 1;
         else
             key = 2;
-        System.out.println(key);
         int count = 0;
         for (int i = 0; i < items.length; i++) {
             if (items[i][key].equals(ruleValue))
