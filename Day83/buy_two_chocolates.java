@@ -5,6 +5,7 @@ public class buy_two_chocolates {
         int res = Integer.MAX_VALUE;
         int money = 3;
         int prices[] = { 1, 2, 2 };
+
         for (int i = 0; i < prices.length; i++) {
             for (int j = i + 1; j < prices.length; j++) {
                 int sum = prices[i] + prices[j];
